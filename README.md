@@ -2,4 +2,5 @@
 
 A new Flutter project.
 
-![resim1](https://user-images.githubusercontent.com/23746859/38315829-9ab33b26-3829-11e8-84e4-02c5f67e9b2b.png)
+![deneme](https://user-images.githubusercontent.com/23746859/38331037-7122fc00-3852-11e8-96c5-63db70b30b11.gif)
+
