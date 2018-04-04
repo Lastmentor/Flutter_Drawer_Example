@@ -1,2 +1,8 @@
-# Flutter_Drawer_Example
-This is an example about creating drawer in Flutter
+# flutter_drawer_example
+
+A new Flutter project.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
